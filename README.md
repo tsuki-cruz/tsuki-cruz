@@ -1,5 +1,4 @@
 ![Banner](social-banner-01.png)
-## Hi there 👋
 
 <!--
 **tsuki-cruz/tsuki-cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
