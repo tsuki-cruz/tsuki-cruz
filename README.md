@@ -16,11 +16,14 @@ Building operational systems, immersive storefront interfaces, and workflow arch
 ### Glass Header System
 Responsive glass morphism navigation architecture extracted from a production Shopify storefront.
 
-### Compliance Tracker Demo
-Operational workflow architecture inspired by real-world fire compliance management systems.
+### Fire Panel Point List Demo
+Production-inspired mobile workflow application for fire alarm point and zone documentation, PDF generation, and technician-focused field operations.
 
-### Workflow Intake Systems Demo
-Structured intake and document pipeline interfaces for service operations.
+### Compliance Tracker Demo
+Operational compliance management system featuring jurisdiction tracking, workflow automation, and structured record management.
+
+### Operational Reporting Automation
+Automated reporting workflow that transforms operational job data into structured management reports for decision-making and project tracking.
 
 ## Background
 
