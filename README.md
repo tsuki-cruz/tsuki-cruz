@@ -16,6 +16,9 @@ Building operational systems, immersive storefront interfaces, and workflow arch
 ### Glass Header System
 Responsive glass morphism navigation architecture extracted from a production Shopify storefront.
 
+### Terminal Display System
+Reusable front-end engine for cinematic terminal interfaces featuring animated typewriter boot sequences, HUD-inspired panels, scroll-triggered activation, and replayable terminal animations.
+
 ### Fire Panel Point List Demo
 Production-inspired mobile workflow application for fire alarm point and zone documentation, PDF generation, and technician-focused field operations.
 
